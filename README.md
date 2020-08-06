@@ -1,17 +1,12 @@
 # BMI Calculator 💪
 
-## Our Goal
+A BMI calculator app I coded using Flutter/Dart and based off starter code from [Angela Yu's (in collaboration with the Google Flutter team) Flutter course](https://www.udemy.com/course/flutter-bootcamp-with-dart/).
 
-The objective of this tutorial is to look at how we can customise Flutter Widgets to achieve our own beautiful user interface designs. If you have a designer on board, no matter how unconventional their designs are, we can create them using Flutter. 
-
-
-## What you will create
-
-We’re going to make a Body Mass Index Calculator inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator). It will be a multi screen app with simple functionality but full-on custom styling. 
+Inspired by the beautiful designs made by [Ruben Vaalt](https://dribbble.com/shots/4585382-Simple-BMI-Calculator).
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/bmi-calc-demo.gif)
 
-## What you will learn
+## Skills learned
 
 - How to use Flutter themes to create coherent branding. 
 - How to create multi-page apps using Flutter Routes and Navigator.
